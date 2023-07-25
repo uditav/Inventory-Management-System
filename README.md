@@ -1,1 +1,1 @@
-# Computer-Lab-Stock-Management
+# Inventory-Management-System
